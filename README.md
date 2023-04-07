@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujeeth-k&label=Profile%20views&color=0e75b6&style=flat" alt="sujeeth-k" /> </p>
 
-- 🌱 I’m currently learning **postgreSQL**
+- 🌱 I’m currently learning **Javascript**
 
 - 👨‍💻 All of my projects are available at [https://sujeethweb.onrender.com/](https://sujeethweb.onrender.com/)
 
