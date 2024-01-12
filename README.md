@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SUJEETH</h1>
-<h3 align="center">A passionate web developer and UG computer student.</h3>
+<h3 align="center">A Tech enthusiast with needed technical knowledge with hands-on-experience.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujeeth-k&label=Profile%20views&color=0e75b6&style=flat" alt="sujeeth-k" /> </p>
 
